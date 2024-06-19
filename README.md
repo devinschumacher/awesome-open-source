@@ -29,3 +29,7 @@ Awesome Open Source projects, websites, SAAS, technology, etc.
 
 ## Finance
 - [ghostfolio](https://github.com/ghostfolio/ghostfolio): Open Source Wealth Management Software.
+
+
+## Text Editors
+- [Dillinger](https://github.com/joemccann/dillinger): Markdown editor
