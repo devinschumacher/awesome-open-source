@@ -12,6 +12,10 @@ Awesome Open Source projects, websites, SAAS, technology, etc.
 ## API
 - [Unkey](https://github.com/unkeyed/unkey): Open source API management platform
 
+## Backend As A Service
+- [Pocketbase](https://github.com/pocketbase/pocketbase): Open Source realtime backend in 1 file
+
+
 ## Document Signatures
 - [Documenso](https://github.com/documenso/documenso): The Open Source DocuSign Alternative.
 - [Papermark](https://github.com/mfts/papermark) is the open-source DocSend alternative with built-in analytics and custom domains.
