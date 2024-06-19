@@ -6,8 +6,10 @@ Awesome Open Source projects, websites, SAAS, technology, etc.
 - [Aptabase](https://github.com/aptabase/aptabase): Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps
 - [OpenStatus](https://github.com/openstatusHQ/openstatus): The open-source synthetic & real user monitoring platform
 
-## API
+## Alerts Management
+- [Keep](https://github.com/keephq/keep): The open-source alert management and AIOps platform
 
+## API
 - [Unkey](https://github.com/unkeyed/unkey): Open source API management platform
 
 ## Document Signatures
@@ -15,7 +17,6 @@ Awesome Open Source projects, websites, SAAS, technology, etc.
 - [Papermark](https://github.com/mfts/papermark) is the open-source DocSend alternative with built-in analytics and custom domains.
 
 ## Linkinbio
-
 - [Openbio](https://openbio.app/): Open source beautiful link in bio pages.
 
 
